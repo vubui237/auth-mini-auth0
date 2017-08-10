@@ -1,0 +1,29 @@
+{
+  "name": "auth-mini-auth0",
+  "version": "1.0.0",
+  "description": "UserViewer ==============",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-session": "^1.15.5",
+    "passport": "^0.3.2",
+    "passport-auth0": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vubui237/auth-mini-auth0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vubui237/auth-mini-auth0/issues"
+  },
+  "homepage": "https://github.com/vubui237/auth-mini-auth0#readme"
+}
